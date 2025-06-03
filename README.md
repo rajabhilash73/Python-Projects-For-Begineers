@@ -1,2 +1,2 @@
-# Python-Projects-For-Begineers
+# Python-Projects-For-Beginners
 Beginners friendly python projects.
